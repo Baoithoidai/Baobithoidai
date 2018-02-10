@@ -16,7 +16,7 @@
 
 <?php wp_footer(); ?>
 <script src="<?php echo get_template_directory_uri(); ?>/bootstrap/js/bootstrap.min.js"></script>
-<script src="<?php echo get_template_directory_uri(); ?>/bootstrap/js/jssor.slider.min.js"></script>
+<script src="<?php echo get_template_directory_uri(); ?>/assets/js/jssor.slider.min.js"></script>
 
 
 

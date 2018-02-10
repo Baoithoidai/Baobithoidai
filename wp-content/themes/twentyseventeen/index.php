@@ -19,7 +19,7 @@ get_header(); ?>
 <div class="container">
 		<div class="row">
 			<div class="col-md-2">
-				test cot ben trai
+				<?php get_template_part( 'template-parts/navigation/navigation', 'left' ); ?>
 			</div>
 			<div class="col-md-10">
 				test cot ben phai

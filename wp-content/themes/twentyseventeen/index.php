@@ -36,19 +36,19 @@ get_header(); ?>
             <div data-u="slides" style="position: absolute; left: 0px; top: 0px; width: 1140px; height: 442px;
             overflow: hidden;">
                 <div>
-                    <img data-u="image" src="<?php echo get_template_directory_uri(); ?>/assets/images/banner1.png"/>
+                    <img data-u="image" src="<?php echo get_template_directory_uri(); ?>/assets/images/banner1.jpg"/>
                 </div>
                 <div>
-                    <img data-u="image" src="<?php echo get_template_directory_uri(); ?>/assets/images/banner2.png"/>
+                    <img data-u="image" src="<?php echo get_template_directory_uri(); ?>/assets/images/banner2.jpg"/>
                 </div>
                 <div>
-                    <img data-u="image" src="<?php echo get_template_directory_uri(); ?>/assets/images/banner3.png"/>
+                    <img data-u="image" src="<?php echo get_template_directory_uri(); ?>/assets/images/banner3.jpg"/>
                 </div>
                 <div>
-                    <img data-u="image" src="<?php echo get_template_directory_uri(); ?>/assets/images/banner4.png"/>
+                    <img data-u="image" src="<?php echo get_template_directory_uri(); ?>/assets/images/banner4.jpg"/>
                 </div>
                 <div>
-                    <img data-u="image" src="<?php echo get_template_directory_uri(); ?>/assets/images/banner5.png"/>
+                    <img data-u="image" src="<?php echo get_template_directory_uri(); ?>/assets/images/banner5.jpg"/>
                 </div>
             </div>
             

@@ -8,9 +8,6 @@
 	<div class="row">
 		<div class="col-md-12">
 			<a href="#">
-				<img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png">
-			</a>
-			<a href="#">
 				<img src="<?php echo get_template_directory_uri(); ?>/assets/images/home.png">
 			</a>
 			<a href="#">

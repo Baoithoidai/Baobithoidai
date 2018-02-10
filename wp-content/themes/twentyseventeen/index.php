@@ -24,6 +24,7 @@ get_header(); ?>
 			<div class="col-md-10">
 				<?php get_template_part( 'template-parts/navigation/navigation', 'top' ); ?>
 				<?php get_template_part( 'template-parts/slider/banner', 'top' ); ?>
+				<?php get_template_part( 'template-parts/content/content', 'top' ); ?>
 
 			</div>
 		</div>

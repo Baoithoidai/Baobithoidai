@@ -2,7 +2,7 @@
 
 
 <div class="container-fluid">
-    <div id="carouselExample" class="carousel slide" data-ride="carousel" data-interval="9000">
+    <div id="carouselExample" class="carousel slide" data-ride="carousel" data-interval="2000">
         <div class="carousel-inner row w-100 mx-auto" role="listbox">
             <div class="carousel-item col-md-3  active">
                <div class="panel panel-default">

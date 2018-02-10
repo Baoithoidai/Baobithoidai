@@ -104,7 +104,7 @@ $('#carouselExample').on('slide.bs.carousel', function (e) {
 
 
   $('#carouselExample').carousel({ 
-                interval: 200
+                interval: 2000
         });
 
 

@@ -22,7 +22,7 @@ get_header(); ?>
 				<?php get_template_part( 'template-parts/navigation/navigation', 'left' ); ?>
 			</div>
 			<div class="col-md-10">
-				test cot ben phai
+				<?php get_template_part( 'template-parts/navigation/navigation', 'top' ); ?>
 			</div>
 		</div>
 		

@@ -25,7 +25,7 @@ get_header(); ?>
 			<?php get_template_part( 'template-parts/slider/banner', 'top' ); ?>
 			<?php get_template_part( 'template-parts/content/content', 'top' ); ?>
 			<?php get_template_part( 'template-parts/content/content', 'middle' ); ?>
-			
+			<?php get_template_part( 'template-parts/content/content', 'bottom' ); ?>
 		</div>
 	</div>
 	

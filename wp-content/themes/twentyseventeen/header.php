@@ -22,6 +22,7 @@
 <?php wp_head(); ?>
 
 <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/custom.css">
 </head>
 
 <body <?php body_class(); ?>>

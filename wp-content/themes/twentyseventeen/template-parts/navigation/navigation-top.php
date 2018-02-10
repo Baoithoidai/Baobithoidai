@@ -1,10 +1,10 @@
 <div class="row mt-custom-1">
 	<div class="col-md-6">
-		<ul>
-			<li>TƯ VẤN</li>
-			<li>THIẾT KẾ</li>
-			<li>IN ẤN BAO BÌ</li>
-		</ul>
+		<nav class="nav flex-column">
+		  <a class="nav-link active" href="#">TƯ VẤN</a>
+		  <a class="nav-link" href="#">THIẾT KẾ</a>
+		  <a class="nav-link" href="#">IN ẤN BAO BÌ</a>
+		</nav>
 	</div>
 	<div class="col-md-6">
 		<div class="input-group mb-3">

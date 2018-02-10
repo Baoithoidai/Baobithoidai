@@ -1,4 +1,4 @@
-<div class="row">
+<div class="row mt-4">
     <div class="col-md-5">
         <img src="...." alt="..">
     </div>

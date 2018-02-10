@@ -78,12 +78,14 @@
             //responsive code end
         });
     </script>
-
+    
+ <script>	
 $(document).ready(function() {
     $('#Carousel').carousel({
         interval: 5000
     })
 });
+ </script>
 
 </body>
 </html>

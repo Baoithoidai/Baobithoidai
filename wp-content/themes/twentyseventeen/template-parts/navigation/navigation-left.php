@@ -1,7 +1,7 @@
 <div>
 	<div class="row">
 		<div class="col-md-12 nav-top-left-logo">
-			logo
+			<img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png">
 		</div>
 	</div>
 

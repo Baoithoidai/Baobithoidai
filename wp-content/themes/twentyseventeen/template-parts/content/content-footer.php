@@ -1,6 +1,5 @@
 <div class="row mt-4">
     <div class="col-md-5">
-        aaaaaaaaaaaaa
         <p class="copyright float-left">© 2016 | BAO BI THOI DAI JSC | All rights reserved</p>
     </div>
     <div class="col-md-5">

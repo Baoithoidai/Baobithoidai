@@ -27,7 +27,15 @@
 
 	<div class="row">
 		<div class="col-md-12">
-			social
+			<div class="row">
+				facebook
+			</div>
+			<div class="row">
+				Link
+			</div>
+			<div class="row">
+				Google Plus
+			</div>
 		</div>
 	</div>
 </div>

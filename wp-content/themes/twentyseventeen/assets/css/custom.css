@@ -112,3 +112,36 @@ transform: rotate(360deg);
 #profile-grid .thumbnail {margin-bottom:6px;}
 #profile-grid .panel-thumbnail { overflow: hidden; }
 #profile-grid .img-rounded { border-radius: 4px 4px 0 0;}
+
+
+/*Footer menu*/
+.copyright {
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 0px;
+}
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+.footer-menu li{
+    list-style: none;
+    float: left;    
+}
+
+.footer-menu li a{
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff; 
+    padding: 0px 10px; 
+    border-right: 1px solid #fff;
+}
+
+.footer-menu li.f-li-last a{
+    border-right: 0px;
+    padding-right: 0px;
+}

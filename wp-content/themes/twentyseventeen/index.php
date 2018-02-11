@@ -27,6 +27,7 @@ get_header(); ?>
 			<?php get_template_part( 'template-parts/content/content', 'middle' ); ?>
 			<?php get_template_part( 'template-parts/content/content', 'bottom' ); ?>
 			<?php get_template_part( 'template-parts/slider/banner', 'bottom' ); ?>
+			<?php get_template_part( 'template-parts/footer/footer', 'top' ); ?>
 		</div>
 	</div>
 	
